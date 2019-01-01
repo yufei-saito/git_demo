@@ -4,3 +4,5 @@ update_demo
 demo
 
 git_tag
+
+git_Fuxi
